@@ -1,0 +1,3 @@
+﻿jnowak 12345
+tkowalski 67890
+kmaj qwerty

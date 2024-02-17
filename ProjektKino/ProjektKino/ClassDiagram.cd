@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProjektKino.User">
+    <Position X="6.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAEAEhE=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektKino.Menu">
+    <Position X="3.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAEAE=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektKino.Repertuar">
+    <Position X="7" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgIAACAAAAAAAIAAIgAQAAAACEAkAAAAAAQE=</HashCode>
+      <FileName>Repertuar.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="listaSeansow" />
+      <Field Name="user" />
+      <Field Name="filmy" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjektKino.Rezerwacja">
+    <Position X="9.5" Y="3" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAABAAAAAAIAAAACAhAAEAAAAAAEgAAAAgICQA=</HashCode>
+      <FileName>Rezerwacja.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjektKino.Sala">
+    <Position X="1.25" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAABAAAAAAAAABAAAAAAACAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Sala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektKino.Seans">
+    <Position X="3.75" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAABAAACAAAAAAAAAAgAACCwAAAAQAAAIgAAQA=</HashCode>
+      <FileName>Seans.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="user" />
+      <Field Name="sala" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ProjektKino.Film">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektKino.Program">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAQA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="menu" />
+      <Field Name="user" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

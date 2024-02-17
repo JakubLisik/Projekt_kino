@@ -1,0 +1,13 @@
+jnowak 1 12
+kmaj 1 25
+jnowak 1 2
+jnowak 1 3
+jnowak 10 72
+jnowak 10 2
+jnowak 10 71
+jnowak 10 64
+tkowalski 7 43
+kmaj 7 42
+jnowak 6 21
+jnowak 1 47
+jnowak 1 38

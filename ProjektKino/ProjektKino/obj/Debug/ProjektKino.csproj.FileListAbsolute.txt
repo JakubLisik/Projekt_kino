@@ -1,0 +1,7 @@
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\bin\Debug\ProjektKino.exe.config
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\bin\Debug\ProjektKino.exe
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\bin\Debug\ProjektKino.pdb
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\obj\Debug\ProjektKino.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\obj\Debug\ProjektKino.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\obj\Debug\ProjektKino.exe
+C:\Users\jakub\source\repos\ProjektKino\ProjektKino\obj\Debug\ProjektKino.pdb
